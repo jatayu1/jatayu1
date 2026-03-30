@@ -1,3 +1,5 @@
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 # 💫 About Me:
 Hi, I'm Akash 👋  <br>A Data Scientist & Full-Stack Developer passionate about building AI-driven products and scalable web solutions.  <br>I love turning ideas into real-world applications.<br><br>
 ## 👋 About Me:
@@ -7,9 +9,6 @@ Hi, I'm Akash 👋  <br>A Data Scientist & Full-Stack Developer passionate about
 - 🌱 I’m currently exploring **Generative AI and MLOps**, building **AI-powered mobile applications**
 - 💬 Ask me about **Python, ML workflows, WordPress development, and API integrations**
 - ⚡ Fun fact: **I enjoy turning simple ideas into real-world products (AI + Web)**
-
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashdas-codes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dakash682@gmail.com) 
