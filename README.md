@@ -8,6 +8,8 @@ Hi, I'm Akash 👋  <br>A Data Scientist & Full-Stack Developer passionate about
 - 💬 Ask me about **Python, ML workflows, WordPress development, and API integrations**
 - ⚡ Fun fact: **I enjoy turning simple ideas into real-world products (AI + Web)**
 
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashdas-codes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dakash682@gmail.com) 
