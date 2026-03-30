@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi, I'm Akash 👋  <br>A Data Scientist & Full-Stack Developer passionate about building AI-driven products and scalable web solutions.  <br>I love turning ideas into real-world applications.<br><br>## 👋 About Me<br><br>- 🔭 I’m currently building a **smart notepad app with AI-driven features for enhanced productivity**<br>- 🤝 I’m looking to collaborate on **AI-powered applications and real-world product development**<br>- 🧠 I’m looking for help with **UI/UX design and AI integration to build intuitive, intelligent products**<br>- 🌱 I’m currently exploring **Generative AI and MLOps**, building **AI-powered mobile applications**<br>- 💬 Ask me about **Python, ML workflows, WordPress development, and API integrations**<br>- ⚡ Fun fact: **I enjoy turning simple ideas into real-world products (AI + Web)**
+Hi, I'm Akash 👋  <br>A Data Scientist & Full-Stack Developer passionate about building AI-driven products and scalable web solutions.  <br>I love turning ideas into real-world applications.<br><br>
+## 👋 About Me:
+- 🔭 I’m currently building a **smart notepad app with AI-driven features for enhanced productivity**
+- 🤝 I’m looking to collaborate on **AI-powered applications and real-world product development**
+- 🧠 I’m looking for help with **UI/UX design and AI integration to build intuitive, intelligent products**
+- 🌱 I’m currently exploring **Generative AI and MLOps**, building **AI-powered mobile applications**
+- 💬 Ask me about **Python, ML workflows, WordPress development, and API integrations**
+- ⚡ Fun fact: **I enjoy turning simple ideas into real-world products (AI + Web)**
 
 
 ## 🌐 Socials:
