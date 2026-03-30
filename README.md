@@ -1,7 +1,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Akash!](https://github.com/jatayu1) !!
 # 💫 About Me:
-Hi, I'm Akash 👋  <br>A Data Scientist & Full-Stack Developer passionate about building AI-driven products and scalable web solutions.  <br>I love turning ideas into real-world applications.<br><br>
+Data Scientist & Full-Stack Developer passionate about building AI-driven products and scalable web solutions.  <br>I love turning ideas into real-world applications.<br><br>
 ## 👋 About Me:
 - 🔭 I’m currently building a **smart notepad app with AI-driven features for enhanced productivity**
 - 🤝 I’m looking to collaborate on **AI-powered applications and real-world product development**
